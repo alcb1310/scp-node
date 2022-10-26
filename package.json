@@ -1,0 +1,19 @@
+{
+  "name": "scp",
+  "version": "1.0.0",
+  "description": "Budget Control Application focused on construction companies",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Andres Court",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2",
+    "supertest": "^6.3.1"
+  }
+}
