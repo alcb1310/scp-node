@@ -24,7 +24,7 @@ This app will be able to handle budget for different project within a constructi
 Users from a specific company will not be able to see data from any other company\
 Each project's budget information will be display sepparately
 
-## Documentation
+<!-- ## Documentation
 
 Links to the documentation information:
 
@@ -34,4 +34,4 @@ Links to the documentation information:
 
 Database design:
 
-![Database E/R Model](./documentation/images/BCA-ER-Diagram.png "E/R Database Model")
+![Database E/R Model](./documentation/images/BCA-ER-Diagram.png "E/R Database Model") -->
